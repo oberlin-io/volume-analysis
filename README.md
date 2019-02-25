@@ -4,4 +4,4 @@ Algorithm counts open orders per day. Applicable to determining the volume of an
 
 Code draws from example order data with ordered and complete dates.
 
-Operational code should be live at https://colab.research.google.com/drive/1sgXlv-CC59RpirS5R63y3dvYYL-Cz4_Y.
+Operational code should be live [here](https://colab.research.google.com/drive/1sgXlv-CC59RpirS5R63y3dvYYL-Cz4_Y).
